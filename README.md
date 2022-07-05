@@ -16,7 +16,8 @@ Entre otras tecnologias
 
 
 ## Contactame 🤝🏻
-
+- LinkedIn: https://www.linkedin.com/in/johan-arteaga
+- Whatsapp: https://wa.me/573107464006 (+57 3107464006)
 
 ![Dino](https://raw.githubusercontent.com/arjunMee/arjunMee/master/dino.gif?token=AQWYXGQBQLHFPDHPO7E2UOLAUYRTI)
 
