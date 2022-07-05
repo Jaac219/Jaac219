@@ -2,7 +2,7 @@
 
 # Bienvenidos a mi GitHub! 👋🏻 Yo soy Johan Arteaga! <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
 
-Yo soy Johan Arteaga 🙋🏻‍♂️, Soy tecnólogo en análisis y desarrollo de sistemas de información,
+Yo soy Johan Arteaga 🙋🏻‍♂️, Tengo 27 años vivo en Medellín / Colombia Soy tecnólogo en análisis y desarrollo de sistemas de información,
 Full Stack Developer con experiencia trabajando con tecnologías:
 
 - React.js
